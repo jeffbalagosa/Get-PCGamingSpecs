@@ -1,0 +1,11 @@
+# Ignore PowerShell-generated PCSpecs output files
+PCSpecs-*.txt
+
+# Ignore general log files
+*.log
+
+# Ignore temporary PowerShell files
+*.ps1~
+
+# Optional: ignore VS Code workspace files (if using VS Code)
+.vscode/

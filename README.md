@@ -2,7 +2,7 @@
 
 A simple, automatic **PowerShell script** to gather detailed **PC hardware specs** on Windows 11 — perfect for evaluating **gaming performance** or saving a quick system snapshot.
 
-✅ **No manual output redirection required** — script auto-generates a timestamped report:
+- **No manual output redirection required** — script auto-generates a timestamped report:
 
 ```
 PCSpecs-YYYYMMDD-HHMM.txt
@@ -12,13 +12,13 @@ PCSpecs-YYYYMMDD-HHMM.txt
 
 ## Features
 
-✅ CPU info
-✅ RAM info
-✅ GPU info
-✅ Storage info
-✅ OS info
-✅ Auto-saves to `PCSpecs-YYYYMMDD-HHMM.txt`
-✅ Displays output to **both console and file**
+- CPU info
+- RAM info
+- GPU info
+- Storage info
+- OS info
+- Auto-saves to `PCSpecs-YYYYMMDD-HHMM.txt`
+- Displays output to **both console and file**
 
 ---
 
@@ -30,8 +30,8 @@ PCSpecs-YYYYMMDD-HHMM.txt
 .\Get-PCGamingSpecs.ps1
 ```
 
-✅ Output will be shown on screen
-✅ Output will also be saved as `PCSpecs-YYYYMMDD-HHMM.txt` in the script’s directory
+- Output will be shown on screen
+- Output will also be saved as `PCSpecs-YYYYMMDD-HHMM.txt` in the script’s directory
 
 ---
 
